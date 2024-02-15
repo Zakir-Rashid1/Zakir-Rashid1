@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Zakir-Rashid1/Zakir-Rashid1/blob/main/remote.jpeg)
 
 <h1 align="center">Hi 👋, I'm Zakir Rashid</h1>
 <h3 align="center">Pioneering the Frontiers of Algorithmic Innovation and Cutting-Edge Coding</h3>
