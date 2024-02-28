@@ -1,7 +1,5 @@
 # 💫 About Me:
 Computer science engineer with a passion for leveraging technology to solve complex problems.<br>Especially in the field of machine learning and AI.<br>Experienced in software development, algorithms, and data structures.<br>Currently focused on developing machine learning and AI algorithms.<br>For real-world applications.<br><br><br><br><br><br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zakir-Rashid) 
 
