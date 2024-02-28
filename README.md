@@ -12,10 +12,10 @@ Engineer passionate about solving complex problems.<br>Focused on machine learni
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zakir-Rashid1&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakir-Rashid1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Meme of The Day:)
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
