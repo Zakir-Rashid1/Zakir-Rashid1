@@ -14,10 +14,6 @@ Computer Science Engineer passionate about solving problems.<br>Focused on machi
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Meme of The Day:)
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Zakir-Rashid1&icon=0&color=0)](https://visitcount.itsvg.in)
 
